@@ -4,8 +4,9 @@
   "description": "I am creating a template for tailwindcss build and dev environments",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build"
+    "dev": "vite", // start dev server
+    "build": "vite build", // build for production
+    "serve": "vite preview" // locally preview production build
   },
   "keywords": [],
   "author": "Mark Landeryou",
