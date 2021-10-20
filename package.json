@@ -1,14 +1,14 @@
 {
   "name": "tailwindcss",
   "version": "1.0.0",
-  "description": "",
+  "description": "I am creating a template for tailwindcss build and dev environments",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mark Landeryou",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^10.3.7",
